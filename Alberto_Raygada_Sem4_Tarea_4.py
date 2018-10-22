@@ -7,8 +7,8 @@ programa debe utilizar funciones de responsabilidad única por lo que debe modul
 solución.
 """
 
-mensaje = "A continuación se le solicitarán tres números enteros, \nlos cuales se redondearán a la decena"
-mensaje += " más cercana \ny se generará la suma de los números redondeados."
+mensaje = "\nA continuación se le solicitarán tres números enteros, \nlos cuales se redondearán a la decena"
+mensaje += " más cercana \ny se generará la suma de los números redondeados.\n"
 
 print(mensaje)
 

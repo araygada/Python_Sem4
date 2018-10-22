@@ -3,9 +3,9 @@ Escriba una función que permita determinar si un número se encuentra en un ran
 ej: is_in_range(num, min, max).
 """
 
-mensaje = "A continuación se le solicitará ingresar un número " \
-          "\n y un máximo y un mínimo para determinar ." \
-            "\nsi el primero se encuentra en el rango de lo dos últimos."
+mensaje = "\nA continuación se le solicitará ingresar un número " \
+          "\n y un máximo y un mínimo para determinar " \
+            "\nsi el primero se encuentra en el rango de lo dos últimos.\n"
 print(mensaje)
 
 num1 = int(input("Ingrese el primer número: "))
